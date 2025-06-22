@@ -1,4 +1,4 @@
-# 2048 App  
+# Deploying a real-time application on EKS using Fargate.  
 
 Summary: Create EKS cluster using Fargate nodes.  
 
